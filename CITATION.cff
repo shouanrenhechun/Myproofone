@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Please cite the repository and the version of the Lean formalization used."
+title: "Bipartite Domination at Maximum Degree Six in Lean"
+authors:
+  - family-names: shouanrenhechun
+repository-code: "https://github.com/shouanrenhechun/Myproofone"
+version: "0.1.0"
